@@ -110,7 +110,7 @@ spacy-loggers==1.0.2
 spacy-streamlit==1.0.4
 srsly==2.4.3
 stack-data==0.3.0
-streamlit==1.10.0
+streamlit
 tenacity==8.0.1
 terminado==0.15.0
 textblob==0.17.1
